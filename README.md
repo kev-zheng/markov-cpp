@@ -1,2 +1,2 @@
-# markov-cpp
-a simple markov string generator
+# markov-gen
+a simple string generator in C++ using markov chains
